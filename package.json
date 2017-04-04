@@ -1,0 +1,16 @@
+{
+  "name": "diceroller",
+  "version": "0.0.0",
+  "description": "Diceroller Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Diceroller",
+    "NodeJs",
+    "Module"
+  ],
+  "author": "Juan Sedano",
+  "license": "MIT"
+}
